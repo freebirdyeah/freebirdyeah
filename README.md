@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Shaan Chopra 👋
 
-<!--
-**freebirdyeah/freebirdyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at MIT Manipal.
 
-Here are some ideas to get you started:
+🧠 **Currently**  
+- Building **Mack**, a simple chess engine in Python.  
+- Learning more about Machine Learning, CTFs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Interested in**  
+I'm actively exploring a lot of stuff in computer science :)
+
+---
+This space will grow as I do.
