@@ -3,7 +3,6 @@
 I'm a Computer Science undergraduate at MIT Manipal.
 
 🧠 **Currently**  
-- (Procrastinating) Building **Mack**, a chess engine in Python.
 - Making a CHIP-8 emulator
 - Learning more about Machine Learning, CTFs
 
