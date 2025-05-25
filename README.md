@@ -5,7 +5,6 @@ I'm a Computer Science undergraduate at MIT Manipal.
 🧠 **Currently**  
 - (Procrastinating) Building **Mack**, a chess engine in Python.
 - Making a CHIP-8 emulator
-- Making an implementation to train Feedforward NNs from scratch
 - Learning more about Machine Learning, CTFs
 
 🌱 **Interested in**  
