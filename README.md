@@ -3,8 +3,7 @@
 I'm a Computer Science undergraduate at MIT Manipal.
 
 🧠 **Currently**  
-- Making a CHIP-8 emulator
-- Working on a rendering library using OpenGL Core
+- Making a CHIP-8 emulator (procrastinating for now)
 - Learning more about Machine Learning, CTFs
 
 🌱 **Interested in**  
