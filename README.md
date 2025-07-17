@@ -8,7 +8,7 @@ I'm a Computer Science undergraduate at MIT Manipal.
 
 🌱 **Interested in**  
 - I'm actively exploring a lot of stuff in computer science :)
-- My main areas of interest are: **anything-low-level-related :)**, **GenAI**, **NLP**, **ML/DL** (currently learning)
+- My main areas of interest are: **anything-low-level-related**, **GenAI**, **NLP**, **ML/DL** (currently learning)
 
 ---
 This space will grow as I do.
