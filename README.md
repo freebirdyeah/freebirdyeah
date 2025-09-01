@@ -1,11 +1,10 @@
 ### Hi, I'm Shaan Chopra 👋
 
 - I'm a Computer Science undergraduate at MIT Manipal.
-- I'm also a **Junior Team Member** at **Cryptonite** under the **AI-Research** domain 
+- and a **Junior Team Member** @**Cryptonite** for **AI-Research** 
 
 🧠 **Currently**  
 - Learning more about GenAI, CTFs
-- Making a CHIP-8 emulator (procrastinating for now)
 
 🌱 **Interested in**  
 - I'm actively exploring a lot of stuff in computer science :)
