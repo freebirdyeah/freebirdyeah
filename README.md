@@ -1,7 +1,7 @@
 ### Hi, I'm Shaan Chopra 👋
 
 - I'm a Computer Science undergraduate at MIT Manipal.
-- and a **Junior Team Member** @**Cryptonite** for **AI-Research** 
+- and a Undergraduate Research Assistant doing **AI-Research** @MIT-Manipal 
 
 **Currently**  
 - Learning more about Generative-AI, Cybersec and Agentic-AI
